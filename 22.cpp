@@ -37,5 +37,8 @@ int main()
     Solution s;
     int num[] = {2,3,6,7};
     vector<int> can(num,num+4);
-    s.generateParenthesis(3);
+    //s.generateParenthesis(3);
+    int t = 5;
+    t = t<<0;
+    cout<<t<<endl;
 }
